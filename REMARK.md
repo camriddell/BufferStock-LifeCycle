@@ -1,7 +1,6 @@
 ---
 remark-version: 1.0 # required - specify version of REMARK standard used
 # Econ-ARK website fields
-github_repo_url: 
 remark-name: BufferStock-LifeCycle # required
 notebooks: # path to any notebooks within the repo - optional
   -
